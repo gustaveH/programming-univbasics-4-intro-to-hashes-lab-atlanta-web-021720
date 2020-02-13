@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  Hash.new.key(value)
+  key: 
 end
 
 def read_from_hash(hash, key)
